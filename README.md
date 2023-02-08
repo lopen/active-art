@@ -14,9 +14,15 @@ generate strange poems with seemingly weird or strange words, but they use deep 
 
 the program can then highlight this and show why it used certain words based on activity and rhyming scheme
 
+### libraries:
+- nltk (pos-tagging)
+
 ## music
 do make the music with bpm and stuff
 
+### libraries:
+- midiutil
+- mingus
 
 # resources
 
@@ -30,4 +36,8 @@ do make the music with bpm and stuff
 
 **description:** elements of poetry (poetry structure) \
 **link:** [mondaysmadeeasy.com](https://mondaysmadeeasy.com/elements-of-poetry/) \
-**accessed:** 7th of feb
+**accessed:** 8th of feb
+
+**description:** categorizing and tagging words with python \
+**link:** [POS-tagger](https://www.nltk.org/book_1ed/ch05.html) \
+**accessed:** 8th of feb
