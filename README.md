@@ -41,3 +41,7 @@ do make the music with bpm and stuff
 **description:** categorizing and tagging words with python \
 **link:** [POS-tagger](https://www.nltk.org/book_1ed/ch05.html) \
 **accessed:** 8th of feb
+
+**description:** poem dataset
+**link:** [kaggle](https://www.kaggle.com/datasets/michaelarman/poemsdataset)
+**accessed:** 10th of feb
