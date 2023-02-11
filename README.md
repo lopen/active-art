@@ -10,9 +10,32 @@ or \
 the data used to generate this art will be from strava activities and met office weatherdata from when the activity was done
 
 ## poem
-generate strange poems with seemingly weird or strange words, but they use deep rhyming schemes and patterns
+generate strange poems with seemingly weird or strange words, but they use rhyming schemes and patterns
 
 the program can then highlight this and show why it used certain words based on activity and rhyming scheme
+
+Context-Free Grammar to determine sentence stucture?
+
+Create something similar to CFGs but for poem structure, maybe a meld of different poem structures or a unique one for Active Art.
+
+Poem structure determined by Strava activity data, here is an example of how the data could influence a poem:
+
+| Strava data | Determines  | +/-         |
+| ----------- | ----------- | ----------- |
+| Active time spent on activity | Poem length (in sentences) | X |
+| Distance | Amount of words in each sentence | X |
+| Avg. Pace | Amount of letters in words | X |
+| Avg. Heart-rate | Rhyme scheme or avg. / max amount of syllables in words | X |
+| Avg. Cadence | Rhyme scheme or avg. / max amount of syllables in words | X |
+
+
+### Step-by-step, high-level flow:
+To generate a dataset of words to use, the program can be fed poems and we can label all the words according to their part-of-speech (pos-tagging)
+
+With this new dataset of words, we can generate our new poem structure based on Strava data (see table above) and we can pick out words that will fit into our "CFG" based on the rules set by the Strava data.
+
+Since the program uses the Strava API, it is already in their system and should be able to be used by others. Once a run is complete, the program could generate a poem and it could be posted as a part of the activity. (novelty)
+
 
 ### libraries:
 - nltk (pos-tagging)
