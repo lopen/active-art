@@ -4,7 +4,7 @@ import json
 import time
 
 client_id="101992"
-client_secret="da51c4b2e8b5043a23f4a7420a8f28e0488eaded"
+client_secret=""
 
 ## Get the tokens from file to connect to Strava
 with open('strava_tokens.json') as json_file:
