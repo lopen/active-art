@@ -1,0 +1,102 @@
+
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 4 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of stiff and at times intense activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ Through cloudy skies I run
+My muscles feel the strain
+But each step is such fun
+I feel alive again.
+
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a morning run you have just completed.
+                The poem must be 4 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of regular and at times stiff activity. 
+                The poem must convey tones of a partly cloudy day and must convey a feeling of a good time.
+            
+
+        Response:
+ Morning run, stiff and slow,
+Wake my body, start to glow.
+Partly cloudy day, cool breeze,
+Feeling good, mind at ease.
+
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a evening run you have just completed.
+                The poem must be 4 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of conventional and at times vigorous activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a terrible time.
+            
+
+        Response:
+ Gloomy sky, but shoes laced tight,
+Muscles tense, ready for the fight,
+Pound the pavement, one deep breath,
+Endorphins rush, feeling less death.
+
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a evening run you have just completed.
+                The poem must be 4 lines long, where the maximum number of syllabels per line is 8. 
+                The poem must express feelings of moderate and at times tough activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a great time.
+            
+
+        Response:
+ Feet hit the pavement, 
+The sky painted gray 
+Pushing through the pain 
+A perfect evening's play
+
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a lunch run you have just completed.
+                The poem must be 5 lines long, where the maximum number of syllabels per line is 8. 
+                The poem must express feelings of median and at times stiff activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a good time.
+            
+
+        Response:
+ Lunchtime dash, feeling free,
+Pounding pavement, setting me
+Free from office tasks and screens,
+Muscles loosening, soul lightens,
+Good run done, clouds lift, I beam.
+
+        

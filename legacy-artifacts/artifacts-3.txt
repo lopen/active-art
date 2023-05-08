@@ -1,0 +1,22 @@
+
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 6 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of severe and at times strong activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ Pounding pavement, tempo high,
+Shallow breaths, legs defy,
+Thick clouds, jaded sky,
+Push on through, can't deny,
+Heart beats strong, shadows lie,
+Joyful trot, time flies by.
+        

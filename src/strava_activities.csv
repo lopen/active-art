@@ -1,0 +1,2 @@
+,id,name,start_date_local,type,distance,moving_time,average_speed,max_speed,average_cadence,average_heartrate,max_heartrate,end_latlng
+0,9016322165,Afternoon Run,2023-05-05T15:45:40Z,Run,22018.0,7348,2.996,5.204,83.9,173.9,197.0,"[51.27400103956461, 1.0700107924640179]"

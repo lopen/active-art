@@ -1,0 +1,102 @@
+
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 4 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of robust and at times intense activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ Clouds gathered in the sky,
+Wind blowing leaves awry,
+Feet pounding on the ground,
+Alive, refreshed, unbound.
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a morning run you have just completed.
+                The poem must be 4 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of conventional and at times robust activity. 
+                The poem must convey tones of a partly cloudy day and must convey a feeling of a good time.
+            
+
+        Response:
+ Morning run, feeling alive
+The breeze in my hair, I thrive
+Step by step, I conquer the road
+My heart beats fast, I am bestowed.
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 6 lines long, where the maximum number of syllables per line is 9. 
+                The poem must express feelings of tough and at times feverish activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ Pounding pavement, muscles ache
+Sweat drips down as I partake
+I run with feverish glee
+All while clouds form over me
+The miles may be long and tough
+But I feel alive, strong enough
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 6 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of stiff and at times strong activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ Pounding pavement with each stride,
+Flexing muscles, feeling alive.
+Heavy breathing, heart does race,
+Sweat dripping down my tired face.
+Clouds above, cool breeze on skin,
+Endorphins flow, a runner's win.
+        
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 6 lines long, where the maximum number of syllabels per line is 9. 
+                The poem must express feelings of stiff and at times intense activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ In the afternoon I hit the road,
+My muscles stiff, my body slowed,
+Rain clouds loomed up high,
+But I felt free beneath the sky,
+A runner’s high, intense and sweet,
+A joyous way to end the week.
+        

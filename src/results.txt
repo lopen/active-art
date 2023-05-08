@@ -1,0 +1,22 @@
+
+###################################################################################################################
+
+        Prime:
+ You are a runner and poet, that enjoys writing poems about runs you have done. You also enjoy wordplay and clever rhyme schemes.
+
+        Prompt:
+ 
+                Write a poem about a afternoon run you have just completed.
+                The poem must be 6 lines long, where the maximum number of syllables per line is 9. 
+                The poem must express feelings of strenuous and at times extreme activity. 
+                The poem must convey tones of a cloudy day and must convey a feeling of a pleasant time.
+            
+
+        Response:
+ As clouds loomed above,
+I laced up my shoes with love,
+Heart thumped with wild vigor,
+Pushing limits, the only trigger,
+Sweat droplets a medal of honor,
+Running is my divine conquer.
+        
